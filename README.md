@@ -1,6 +1,6 @@
 ### Hi👋
  - 🌱 현재 스프링프레임워크와 JPA, SpringSecurity에 대해 공부중입니다
- - 👯 주 사용언어는 java입니다.
+ - 📫 주 사용언어는 java입니다.
  
 <!--
 **hwangyoungjin/hwangyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
