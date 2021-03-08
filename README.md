@@ -25,7 +25,7 @@
 ![Tool](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white)
 ![Tool](https://img.shields.io/badge/Maven-D22128?style=flat-square&logo=Apache-maven&logoColor=white)
 ![Tool](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
-![Tool](https://img.shields.io/badge/Maven-02303A?style=flat-square&logo=Maven&logoColor=white)
+
 ![Tool](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Tool](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Tool](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
