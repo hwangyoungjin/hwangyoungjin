@@ -25,6 +25,12 @@
 ![DB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 
 #### 4. Tool
+![Tool](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Tool](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Tool](https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=Github-actions&logoColor=white)
+
+
+
 ![Tool](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Tool](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white)
 ![Tool](https://img.shields.io/badge/Maven-D22128?style=flat-square&logo=Apache-maven&logoColor=white)
