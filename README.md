@@ -1,6 +1,10 @@
 ### Hi👋
- - 🌱 I'm currently studying Spring Framework and JPA, Spring Security.
+ - 🌱 I'm currently studying Spring Framework and [JPA](https://github.com/hwangyoungjin/springbootJPA) and [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA), [Spring Security](https://github.com/hwangyoungjin/SpringSecurity).
  - 📫 The main programming language is java
+ 
+ - 👯 Activity
+   1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
+   2. [PBL](https://github.com/hwangyoungjin/PBL)
 
 ### ⚡ Tech Stack
 
