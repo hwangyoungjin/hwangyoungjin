@@ -1,11 +1,16 @@
 ### Hi👋
- - 🌱 I'm currently studying Spring Framework and [JPA](https://github.com/hwangyoungjin/springbootJPA) and [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA), [Spring Security](https://github.com/hwangyoungjin/SpringSecurity).
+ - 🌱 I'm currently studying Spring Framework and 
+  - [JPA](https://github.com/hwangyoungjin/springbootJPA)
+  - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA)
+  - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity)
+  - [Docker & AWS](https://github.com/hwangyoungjin/AWS-Docker)
+
  - 📫 The main programming language is java
  
  - 👯 Activity
    1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
-   2. [PBL](https://github.com/hwangyoungjin/PBL)
-
+   2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
+   
 ### ⚡ Tech Stack
 
 #### 1. Language
