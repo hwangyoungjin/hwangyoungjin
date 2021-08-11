@@ -10,6 +10,7 @@
  - 👯 Activity
    1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
    2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
+   3. [PS Study](https://github.com/PPSolving)
    
 ### ⚡ Tech Stack
 
