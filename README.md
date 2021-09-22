@@ -14,7 +14,7 @@
    2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
    3. [PS Study](https://github.com/PPSolving)
    
-### ⚡ Tech Stack
+### ⚡ Tech Stack 
 
 #### 1. Language
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -24,7 +24,6 @@
 #### 2. Framework
 ![Framework](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Framework](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 
 #### 3. DataBase
 ![DB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
@@ -45,7 +44,6 @@
 ![Tool](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
 
 ![Tool](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Tool](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
 ![Tool](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![Tool](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Tool](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
