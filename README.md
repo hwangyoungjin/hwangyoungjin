@@ -1,22 +1,27 @@
 ### Hi👋
- - 🌱 I'm currently studying Spring Framework and 
-  - [kotlin]
+#### 🌱 I'm currently studying Spring Framework and 
+ - [kotlin]
 
- - 📘 I studied
-  - [Docker & AWS](https://github.com/hwangyoungjin/AWS-Docker)
-  - [WebRTC & WebSocket](https://github.com/hwangyoungjin/WebSocket)
-  - [chatting using redis](https://github.com/hwangyoungjin/chat)
-  - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity)
-  - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA)
-  - [JPA](https://github.com/hwangyoungjin/springbootJPA)
-  - [Springboot 활용](https://github.com/hwangyoungjin/Spring-Web-MVC) 
+#### 📘 I studied
+ - [Docker & AWS](https://github.com/hwangyoungjin/AWS-Docker)
+ - [WebRTC & WebSocket](https://github.com/hwangyoungjin/WebSocket)
+ - [chatting using redis](https://github.com/hwangyoungjin/chat)
+ - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity)
+ - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA)
+ - [JPA](https://github.com/hwangyoungjin/springbootJPA)
+ - [Springboot 활용](https://github.com/hwangyoungjin/Spring-Web-MVC) 
 
- - 📫 The main programming language is java
+#### 🎓 I Learned 
+ - OS, Network, Database, Computer Architecture, 
+ - Programming Languages, Algorithm, Data Structure, 
+ - Discrete Math, Probability Statistics, Linear Algebra and so on.  ...
+
+#### 📫 The main programming language is java
  
- - 👯 Activity
-   1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
-   2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
-   3. [PS Study](https://github.com/PPSolving)
+#### 👯 Activity
+  1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
+  2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
+  3. [PS Study](https://github.com/PPSolving)
    
 ### ⚡ Tech Stack 
 
