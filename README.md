@@ -3,6 +3,7 @@
  - [Coroutine](https://github.com/hwangyoungjin/Springboot_Coroutine_MockK)
 
 #### 📘 I studied
+ - [Reactor Kafka through spring boot Webflux](https://github.com/hwangyoungjin/kafka)
  - [Spring ElasticSearch](https://github.com/hwangyoungjin/Springboot-ElasticSearch)
  - [Docker & AWS](https://github.com/hwangyoungjin/AWS-Docker)
  - [WebRTC & WebSocket](https://github.com/hwangyoungjin/WebSocket)
@@ -17,7 +18,7 @@
  - Programming Languages, Algorithm, Data Structure, 
  - Discrete Math, Probability Statistics, Linear Algebra and so on.  ...
 
-#### 📫 The main programming language is java
+#### 📫 The main programming language is java, kotlin
  
 #### 👯 Activity
   1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
