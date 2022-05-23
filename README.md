@@ -1,6 +1,6 @@
 ### Hi👋
-#### 🌱 I'm currently studying Spring Framework and 
- - [Coroutine](https://github.com/hwangyoungjin/Springboot_Coroutine_MockK)
+#### 🌱 I'm currently studying **Spring Framework** and 
+ - [Quantitative Investment with Python]
 
 #### 📘 I studied
  - [Reactor Kafka through spring boot Webflux](https://github.com/hwangyoungjin/kafka)
@@ -9,9 +9,9 @@
  - [WebRTC & WebSocket](https://github.com/hwangyoungjin/WebSocket)
  - [chatting using redis](https://github.com/hwangyoungjin/chat)
  - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity)
- - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA)
- - [JPA](https://github.com/hwangyoungjin/springbootJPA)
- - [Springboot 활용](https://github.com/hwangyoungjin/Spring-Web-MVC) 
+<!-- - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA) -->
+<!-- - [JPA](https://github.com/hwangyoungjin/springbootJPA) -->
+<!-- - [Springboot 활용](https://github.com/hwangyoungjin/Spring-Web-MVC)  -->
 
 #### 🎓 I Learned 
  - OS, Network, Database, Computer Architecture, 
@@ -25,24 +25,24 @@
   2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
   3. [PS Study](https://github.com/PPSolving)
    
-### ⚡ Tech Stack 
-
+### ⚡ Tech Stack ⭐ ~ ⭐⭐⭐⭐⭐
 #### 1. Language
-- JAVA
-- Kotlin
-- Python3
+- JAVA ⭐⭐⭐⭐
+- Kotlin ⭐⭐
+- Python3 ⭐
 <!-- ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Stack](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
  -->
 #### 2. Framework
-- Springboot
+- SpringBoot for MVC ⭐⭐⭐
+- Jpa ⭐⭐⭐
 <!-- ![Framework](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
  -->
 #### 3. DataBase
-- Mysql
-- Mariadb
+- Mysql ⭐⭐⭐
+- Redis ⭐
 <!-- ![DB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
 ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![DB](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
@@ -50,17 +50,19 @@
  -->
  
 #### 4. DevOps 
-- Docker
-- Github Action
-- AWS EC2
-- AWS S3
+- Docker ⭐⭐
+- Github Action ⭐
+- AWS EC2 ⭐
+- AWS S3 ⭐
 
 #### 5. Tool
-- Git
-- Slack
-- Notion
-- ClickUp
-- Trello
+- Git ⭐⭐⭐
+- Slack ⭐⭐⭐
+- Notion ⭐⭐⭐⭐
+- ClickUp ⭐
+- Trello ⭐⭐
+- Jira ⭐
+- Confluence ⭐
 <!-- ![Tool](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Tool](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Tool](https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=Github-actions&logoColor=white)
