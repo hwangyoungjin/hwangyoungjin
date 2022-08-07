@@ -24,38 +24,43 @@
   1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
   2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
   3. [PS Study](https://github.com/PPSolving)
-   
-### ⚡ Tech Stack ⭐ ~ ⭐⭐⭐⭐⭐
+<!--   
+<!-- ### ⚡ Tech Stack ⭐ ~ ⭐⭐⭐⭐⭐
 #### 1. Language
 - JAVA ⭐⭐⭐⭐
 - Kotlin ⭐⭐
 - Python3 ⭐
+ -->
 <!-- ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Stack](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
  -->
-#### 2. Framework
+<!-- #### 2. Framework
 - SpringBoot for MVC ⭐⭐⭐
 - Jpa ⭐⭐⭐
+ -->
 <!-- ![Framework](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
  -->
-#### 3. DataBase
+<!-- #### 3. DataBase
 - Mysql ⭐⭐⭐
 - Redis ⭐
+ -->
 <!-- ![DB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white)
 ![DB](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![DB](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![DB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
  -->
- 
-#### 4. DevOps 
+
+
+<!-- #### 4. DevOps 
 - Docker ⭐⭐
 - Github Action ⭐
 - AWS EC2 ⭐
 - AWS S3 ⭐
+-->
 
-#### 5. Tool
+<!-- #### 5. Tool
 - Git ⭐⭐⭐
 - Slack ⭐⭐⭐
 - Notion ⭐⭐⭐⭐
@@ -63,6 +68,9 @@
 - Trello ⭐⭐
 - Jira ⭐
 - Confluence ⭐
+-->
+
+
 <!-- ![Tool](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Tool](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Tool](https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=Github-actions&logoColor=white)
@@ -83,8 +91,8 @@
 <!-- #### 5. OS
 ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-
  -->
+
 <!--
 **hwangyoungjin/hwangyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -99,3 +107,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
