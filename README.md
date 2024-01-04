@@ -1,14 +1,13 @@
 ### Hi👋
-#### 🌱 I'm currently studying **Spring Framework** and 
- - [Quantitative Investment with Python]
+#### 🌱 I'm currently studying **Spring Framework** 
 
-#### 📘 I studied
+<!-- #### 📘 I studied
  - [Reactor Kafka through spring boot Webflux](https://github.com/hwangyoungjin/kafka)
  - [Spring ElasticSearch](https://github.com/hwangyoungjin/Springboot-ElasticSearch)
  - [Docker & AWS](https://github.com/hwangyoungjin/AWS-Docker)
  - [WebRTC & WebSocket](https://github.com/hwangyoungjin/WebSocket)
  - [chatting using redis](https://github.com/hwangyoungjin/chat)
- - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity)
+ - [Spring Security](https://github.com/hwangyoungjin/SpringSecurity) -->
 <!-- - [SpringBootJPA](https://github.com/hwangyoungjin/SpringDataJPA) -->
 <!-- - [JPA](https://github.com/hwangyoungjin/springbootJPA) -->
 <!-- - [Springboot 활용](https://github.com/hwangyoungjin/Spring-Web-MVC)  -->
@@ -20,10 +19,10 @@
 
 #### 📫 The main programming language is java, kotlin
  
-#### 👯 Activity
+<!-- #### 👯 Activity
   1. [SpringGroupStudy](https://github.com/hwangyoungjin/SpringGroupStudy)
   2. [Samsung SDS 2021 Summer Algorithm Special Lecture]
-  3. [PS Study](https://github.com/PPSolving)
+  3. [PS Study](https://github.com/PPSolving) -->
 <!--   
 <!-- ### ⚡ Tech Stack ⭐ ~ ⭐⭐⭐⭐⭐
 #### 1. Language
